@@ -1,0 +1,10 @@
+Hello and welcome from the OTU Space Innovators Team, Yaseen Rehman and Aaron Emanual 
+
+Please read this file to understand how our folder is organized
+
+We first played around with the code provided to us from the NASA Resources: [NASA Space Apps TEST DATA.ipynb](<NASA Space Apps TEST Data.ipynb>)
+We then created a notebook to run and confirm all the test data and train our algorithm: [OTU Innovators NASA TRAINING](<OTU Innovators NASA TRAINING Data.ipynb>)
+
+~FINAL CODE~
+This is our final code where you can read any of the lunar or mars data and it will provide you with the seismic event and output a file with that timestamp: [text](<OTU Innovators NASA TEST Data.ipynb>)
+    Additionally, we already ran through 6 examples, 3 from lunar and 3 from mars, found the seismic even per each data set, and output the 6 files
